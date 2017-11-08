@@ -3,3 +3,9 @@ Test
 The color of the rainbow
 
 ...
+
+Purple
+Pink
+Yellow
+Green
+Red
