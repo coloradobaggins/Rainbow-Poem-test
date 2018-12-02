@@ -8,6 +8,14 @@ Purple
 Pink
 Yellow
 Green
+Unicorn
+Another unicorn to commit (2nd in unicorn branch!)
 Red
 Blue
 Orange
+
+These are the colors of the rainbow.
+And the Unicorn
+
+
+Tuto Daniel Shiffman!!
