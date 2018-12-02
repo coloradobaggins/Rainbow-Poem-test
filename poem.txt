@@ -8,6 +8,7 @@ Purple
 Pink
 Yellow
 Green
+Indigo
 Unicorn
 Another unicorn to commit (2nd in unicorn branch!)
 Red
